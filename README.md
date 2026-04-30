@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*%Pro Microsoft Hyper-V*](https://www.link.springer.com/book/10.1007/979-8-8688-2186-8) by Eric Siron (Apress, 2026).
+This repository accompanies [*Pro Microsoft Hyper-V*](https://link.springer.com/book/9798868821851) by Eric Siron (Apress, 2026).
 
 [comment]: #cover
 ![Cover image](979-8-8688-2185-1.jpg)
